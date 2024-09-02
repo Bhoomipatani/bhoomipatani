@@ -32,7 +32,7 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" height="40" title="Spring Boot" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="40" title="Docker" />
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" height="40" title="Gradle" />
-  <a href="#" style="background-color: blue; color: white; padding: 10px; text-decoration: none; border-radius: 5px;">Autofusion</a>
+  ![Autofusion](https://img.shields.io/badge/Autofusion-blue?style=flat-square&logo=logo_name)
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" title="Tailwind CSS" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" height="40" title="Hadoop" />
 </p>
