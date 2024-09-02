@@ -41,10 +41,10 @@ I am a Master's student in Computer Science at the University of California, Irv
 </p>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="40" title="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="ec2" height="40" title="EC2" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="s3" height="40" title="S3" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="dynamodb" height="40" title="DynamoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="40" title="AWS" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="EC2" height="40" title="EC2" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" alt="S3" height="40" title="S3" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" height="40" title="DynamoDB" />
 </p>
 
 <p align="center">
