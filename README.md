@@ -9,19 +9,49 @@ I am a Master's student in Computer Science at the University of California, Irv
 - 🔭 Passionate about Full Stack Development, Cloud Technologies, and DevOps.
 - 🏆 Named Employee of the Month three times at Oracle for innovative solutions.
 
-## 🛠️ My Toolbox
+## 🛠 Technologies & Tools
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-**Technologies/Frameworks:**  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
+![Autofusion](https://img.shields.io/badge/-Autofusion-333333?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)
 
-**Cloud Technologies:**  
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=awslambda) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=amazons3) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=awslambda)
+![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonec2)
+![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazons3)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb)
 
-**Databases:**  
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![SVN](https://img.shields.io/badge/-SVN-333333?style=flat&logo=subversion)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Weblogic](https://img.shields.io/badge/-Weblogic-333333?style=flat&logo=oracle)
 
 ## 🌟 Projects
 
