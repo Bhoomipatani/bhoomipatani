@@ -23,7 +23,6 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40" title="CSS3" />
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" height="40" title="JavaScript" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40" title="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="40"  />
 </p>
 
 <p align="center">
@@ -34,7 +33,7 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="40" title="Docker" />
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" height="40" title="Gradle" />
   <img src="https://www.vectorlogo.zone/logos/junit5/junit5-icon.svg" alt="junit" height="40" title="JUnit" />
-  <img src="https://www.vectorlogo.zone/logos/autofusion/autofusion-icon.svg" alt="autofusion" height="40" title="Autofusion" />
+  <img alt="autofusion" height="40" title="Autofusion" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" title="Tailwind CSS" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" height="40" title="Hadoop" />
 </p>
@@ -59,10 +58,8 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" height="40" title="Bitbucket" />
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" height="40" title="Jira" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" title="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" height="40" title="Confluence" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="40" title="Jenkins" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40" title="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/oracle_weblogic/oracle_weblogic-icon.svg" alt="weblogic" height="40" title="Weblogic" />
 </p>
   
 ---
