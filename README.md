@@ -10,11 +10,9 @@ I am a Master's student in Computer Science at the University of California, Irv
 - 🏆 Named Employee of the Month three times at Oracle for innovative solutions.
 
 
-<center>
 
 ### 🧰 Languages, Technologies, Software Tools
 
-</center>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40" title="Python" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40" title="Java" />
