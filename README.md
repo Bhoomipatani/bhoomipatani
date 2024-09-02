@@ -32,8 +32,7 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" height="40" title="Spring Boot" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="40" title="Docker" />
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" height="40" title="Gradle" />
-  <img src="https://www.vectorlogo.zone/logos/junit5/junit5-icon.svg" alt="junit" height="40" title="JUnit" />
-  <img alt="autofusion" height="40" title="Autofusion" />
+  <h3>Autofusion</h3>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" title="Tailwind CSS" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" height="40" title="Hadoop" />
 </p>
