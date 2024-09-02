@@ -9,50 +9,66 @@ I am a Master's student in Computer Science at the University of California, Irv
 - 🔭 Passionate about Full Stack Development, Cloud Technologies, and DevOps.
 - 🏆 Named Employee of the Month three times at Oracle for innovative solutions.
 
-## 🛠 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+<center>
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
-![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
-![Autofusion](https://img.shields.io/badge/-Autofusion-333333?style=flat)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)
+### 🧰 &nbsp; Languages, Technologies, Software Tools
 
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=awslambda)
-![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonec2)
-![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazons3)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb)
+</center>
+&nbsp;
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40" title="Python" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40" title="Java" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="40" title="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40" title="CSS3" />
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" height="40" title="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40" title="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" height="40" title="SQL" />
+  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cpp" height="40" title="C++" />
+</p>
 
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40" title="React" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="40" title="Node.js" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="background:#ffffff;border-radius:3px;" alt="expressjs" height="40" title="Express.js" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" height="40" title="Spring Boot" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="40" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" height="40" title="Gradle" />
+  <img src="https://www.vectorlogo.zone/logos/junit5/junit5-icon.svg" alt="junit" height="40" title="JUnit" />
+  <img src="https://www.vectorlogo.zone/logos/autofusion/autofusion-icon.svg" alt="autofusion" height="40" title="Autofusion" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" title="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" height="40" title="Hadoop" />
+</p>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![SVN](https://img.shields.io/badge/-SVN-333333?style=flat&logo=subversion)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Weblogic](https://img.shields.io/badge/-Weblogic-333333?style=flat&logo=oracle)
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="40" title="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="ec2" height="40" title="EC2" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="s3" height="40" title="S3" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="dynamodb" height="40" title="DynamoDB" />
+</p>
 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" height="40" title="Oracle SQL" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40" title="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40" title="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40" title="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40" title="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git" />
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" height="40" title="Bitbucket" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" height="40" title="Jira" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" title="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" height="40" title="Confluence" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="40" title="Jenkins" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40" title="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/oracle_weblogic/oracle_weblogic-icon.svg" alt="weblogic" height="40" title="Weblogic" />
+</p>
+  
+---
+
+<center>
 ## 🌟 Projects
 
 ### [File Flow](https://github.com/bhoomipatani/File-Flow)
