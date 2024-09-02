@@ -23,7 +23,7 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40" title="CSS3" />
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" height="40" title="JavaScript" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/npm/tailwindcss@latest/assets/logo.svg" alt="Tailwind CSS" height="40" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="40"  />
 </p>
 
 <p align="center">
