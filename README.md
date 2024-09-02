@@ -12,10 +12,9 @@ I am a Master's student in Computer Science at the University of California, Irv
 
 <center>
 
-### 🧰 &nbsp; Languages, Technologies, Software Tools
+### 🧰 Languages, Technologies, Software Tools
 
 </center>
-&nbsp;
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40" title="Python" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40" title="Java" />
@@ -61,9 +60,6 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40" title="Linux" />
 </p>
   
----
-
-<center>
 ## 🌟 Projects
 
 ### [File Flow](https://github.com/bhoomipatani/File-Flow)
