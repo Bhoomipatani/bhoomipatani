@@ -23,8 +23,7 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40" title="CSS3" />
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" height="40" title="JavaScript" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" height="40" title="SQL" />
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cpp" height="40" title="C++" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logo.12f7f6d2.svg" alt="Tailwind CSS" height="40" title="Tailwind CSS" />
 </p>
 
 <p align="center">
@@ -41,7 +40,7 @@ I am a Master's student in Computer Science at the University of California, Irv
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="40" title="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="40" title="AWS" />
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="EC2" height="40" title="EC2" />
   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" alt="S3" height="40" title="S3" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" height="40" title="DynamoDB" />
