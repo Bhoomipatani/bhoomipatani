@@ -58,30 +58,6 @@ I am a Master's student in Computer Science at the University of California, Irv
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40" title="Linux" />
 </p>
   
-## 🌟 Projects
-
-### [File Flow](https://github.com/bhoomipatani/File-Flow)
-A dynamic serverless file sharing and storing application with AWS Lambda, S3, and DynamoDB.  
-**Tech Stack:** AWS, React.js, Cognito, API Gateway
-
-### [GPT Connect](https://github.com/bhoomipatani/GPT-Connect)
-Integrates responses from Meta AI and Gemini into a single React app.  
-**Features:** Conversation tracking, JSON export/import, PDF download
-
-### [Portfolio Pro](https://github.com/bhoomipatani/Portfolio-Pro)
-An interactive portfolio website built with React.js for fast loading and seamless navigation.  
-**Tech Stack:** React.js, CSS, JavaScript
-
-### [Covid Guard](https://github.com/bhoomipatani/Covid-Guard)
-A deep learning model for detecting social distancing and face mask compliance using YOLOv3 and Caffe.  
-**Accuracy:** 88.8%
-
-## 🏅 Achievements
-
-- **Employee of the Month** at Oracle Financial Services Software
-- Represented my department at the **Avishkar 2022 State Level Project Competition** with the “Covid Guard” project
-- Led the Infotech team in the Entrepreneurship Cell, organizing the “Upstart” boot camp
-
 ## 📫 Get in Touch
 
 - **Email:** [bpatani@uci.edu](mailto:bpatani@uci.edu)
