@@ -64,4 +64,6 @@ I am a Master's student in Computer Science at the University of California, Irv
 - **LinkedIn:** [linkedin.com/in/bhoomipatani](https://linkedin.com/in/bhoomipatani)
 - **GitHub:** [github.com/bhoomipatani](https://github.com/bhoomipatani)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Bhoomipatani&color=blue)
+
 Feel free to explore my repositories and connect with me for potential collaborations!
